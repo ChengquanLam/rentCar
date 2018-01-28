@@ -1,0 +1,12 @@
+.operator-list{
+	width: 15%;
+	float: left;
+}
+
+.console{
+	border: none;
+	width: 85%;
+	height: 750px;
+	float: left;
+	padding: 20px 200px;
+}
